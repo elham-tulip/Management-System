@@ -88,14 +88,14 @@ The dashboard provides management statistics such as:
 
 ## Screenshot Images
 
-# Dashboard
+### Dashboard
 
 ![Dashboard](./screenshots/dashboard.png)
 
-# Login Page
+### Login Page
 
 ![Login](./screenshots/login.png)
 
-# Memebers
+### Memebers
 
 ![Members](./screenshots/members.png)
